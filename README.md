@@ -1,7 +1,5 @@
 # Markov Chain Text Generator
 
-![Markov Chain]("C:\Users\DHRUV\OneDrive\Desktop\TextGenerationProject\MarkovRepresentation.png")
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
