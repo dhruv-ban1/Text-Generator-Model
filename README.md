@@ -1,6 +1,6 @@
 # Markov Chain Text Generator
 
-![Markov Chain](https://example.com/markov_chain_image.png)
+![Markov Chain]("C:\Users\DHRUV\OneDrive\Desktop\TextGenerationProject\MarkovRepresentation.png")
 
 ## Table of Contents
 
